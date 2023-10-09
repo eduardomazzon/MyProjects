@@ -1,4 +1,11 @@
-export { default as Home } from "./Home";
-export { default as Contact } from "./Contact";
 export { default as Menu } from "./Menu";
-export { default as About } from "./About";
+export { default as Home } from "./Home";
+export { default as Explore } from "./Explore";
+export { default as Activity } from "./Activity";
+export { default as Community } from "./Community";
+export { default as Pages } from "./Pages";
+export { default as Contact } from "./Contact";
+export { default as All } from "./All";
+export { default as Recent } from "./Recent";
+export { default as Purchase } from "./Purchase";
+export { default as WalletConnect } from "./WalletConnect";
